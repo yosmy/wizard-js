@@ -1,0 +1,16 @@
+{
+  "name": "@yosmy/wizard",
+  "version": "0.1.0",
+  "private": true,
+  "main": "build/index.js",
+  "dependencies": {
+    "prop-types": "~15.7",
+    "react": "~17.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "~7.12",
+    "@babel/core": "~7.12",
+    "@babel/plugin-transform-react-jsx": "~7.12",
+    "@babel/preset-env": "~7.12"
+  }
+}
